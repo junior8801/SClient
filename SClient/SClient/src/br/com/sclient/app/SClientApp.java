@@ -1,3 +1,7 @@
+package br.com.sclient.app;
+
+import br.com.sclient.ui.About;
+
 
 public class SClientApp {
 
@@ -5,6 +9,9 @@ public class SClientApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hellow word!");
 		System.out.println("Hellow GitHub!");
+		
+		About so = new About();
+		
 
 	}
 
