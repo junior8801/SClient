@@ -9,7 +9,7 @@ public class SClientApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hellow word!");
 		System.out.println("Hellow GitHub!");
-		
+		System.out.println("Hellow i COMMING ON!");
 		About so = new About();
 		
 
