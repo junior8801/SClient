@@ -2,7 +2,7 @@ SClient
 =====
 
 
-Utilizados as bibliotecas.
+Utilizado as bibliotecas.
 
 .
 .
